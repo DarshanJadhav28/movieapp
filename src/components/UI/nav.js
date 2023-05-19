@@ -24,7 +24,9 @@ function BasicExample() {
                 Separated link
               </NavDropdown.Item>
             </NavDropdown>
+            
           </Nav>
+          <h2>Book your Show</h2>
         </Navbar.Collapse>
       </Container>
     </Navbar>
